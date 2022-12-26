@@ -1,0 +1,3 @@
+__v,_id,email,name,password,role
+0,63a9ea7c17559244fc334ede,admin@test.com,Abhishek Ranjan,$2a$10$bpk6IVrZwdtNAMSU0VfAveW5qi63sfC9zT2OPNKi8KvwH7xpEz1H.,admin
+0,63a9eabc17559244fc334ee0,guest@test.com,Guest Account,$2a$10$eyBgxxeu9l2GE0T9k8M/1.qw4LMiEOnwOyjosu4rQoi/RIi8dTCwq,guest
